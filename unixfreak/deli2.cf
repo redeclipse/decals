@@ -1,0 +1,4 @@
+setshader glowdecal
+setshaderparam glowcolor 1.000000 0.750000 0.500000 0.000000
+texture decal "decals/unixfreak/deli2.png"
+texture g "decals/unixfreak/deli2_g.png"
